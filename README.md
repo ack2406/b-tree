@@ -1,5 +1,6 @@
-# XOR Linked List
+# B-tree
 
-An implementation of an XOR linked list in C.
-It supports basic deque operations (push/pop front/back), a movable cursor (`cursor_*`) for local edits, and callback-based iteration (`foreach`) in both directions.
+An implementation of a B-tree in C.
+It supports basic operations like inserting, searching and printing values in the tree.
 
+Removing values is not implemented yet.
